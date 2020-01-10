@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25b4f554-e097-42b2-8152-2290484dc63e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/PushSlaveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/PushSlaveApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/Request/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/Request/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/controller/IController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/controller/IController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/controller/impl/BasicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/controller/impl/BasicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/event/Eventable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/event/Eventable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/event/impl/BasicEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/event/impl/BasicEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/event/type/EventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/event/type/EventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/pushConstants/PushConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/pushConstants/PushConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/pushUtil/RestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/pushUtil/RestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/service/Servicable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/service/Servicable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/service/impl/BasicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/service/impl/BasicService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W1MVsotk0mTsVRPrtOpETZPLRW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/pushSlave-0.0.1-SNAPSHOT.jar" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="JAR Application.Unnamed">
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/pushSlave-0.0.1-SNAPSHOT.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <configuration name="pushSlave []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="Maven.pushSlave []" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25b4f554-e097-42b2-8152-2290484dc63e" name="Default Changelist" comment="" />
+      <created>1578312674610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578312674610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578317480050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1578317480050" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578314548477">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1578314548477" />
+    <state width="1320" height="219" key="GridCell.Tab.0.bottom" timestamp="1578317496040">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578317496040" />
+    <state width="1320" height="219" key="GridCell.Tab.0.center" timestamp="1578317496040">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578317496040" />
+    <state width="1320" height="219" key="GridCell.Tab.0.left" timestamp="1578317496039">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578317496039" />
+    <state width="1320" height="219" key="GridCell.Tab.0.right" timestamp="1578317496040">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578317496040" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1578317584926">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578317584926" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1578317584925">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1578317584925" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1578317584925">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1578317584925" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1578317584926">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1578317584926" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578317007577">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578317007576" />
+    <state x="0" y="27" width="710" height="741" key="find.popup" timestamp="1578623313781">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="710" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1578623313781" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578317075125">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1578317075125" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/controller/impl/BasicController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/pushSlave/pushSlave/controller/impl/BasicController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

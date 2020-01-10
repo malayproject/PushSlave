@@ -1,0 +1,27 @@
+package com.example.pushSlave.pushSlave.event.type;
+
+public enum EventType {
+    YOUTUBE("YOUTUBE",1);
+    String type;
+    int value;
+    EventType(String type, int value){
+        this.value = value;
+        this.type = type;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public void setValue(int value) {
+        this.value = value;
+    }
+
+    public int getValue() {
+        return value;
+    }
+}
